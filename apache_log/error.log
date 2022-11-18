@@ -1,0 +1,106 @@
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Nov 09 20:25:43.139444 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 20:25:43.140142 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 09 20:53:53.728635 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Nov 09 20:55:31.552569 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 20:55:31.556115 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 09 21:16:34.880022 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Nov 09 21:18:01.559407 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 21:18:01.570809 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 09 21:24:43.451712 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Nov 09 21:25:13.037788 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 21:25:13.038370 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Nov 09 21:32:37.908573 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 21:32:37.910635 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 09 21:34:05.687611 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Wed Nov 09 21:34:38.946057 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 21:34:38.947735 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 09 21:38:36.912653 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 09 21:39:01.041483 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 09 21:39:01.047376 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 10 17:47:17.907096 2022] [authz_core:error] [pid 18] [client 172.27.0.1:48426] AH01630: client denied by server configuration: /var/www/html/public/app/
+[Thu Nov 10 17:47:18.178088 2022] [authz_core:error] [pid 18] [client 172.27.0.1:48426] AH01630: client denied by server configuration: /var/www/html/public/writable/
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Thu Nov 10 18:32:33.361454 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 10 18:32:33.362157 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 10 18:33:53.261713 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Nov 10 18:33:59.996480 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 10 18:33:59.998146 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 10 18:35:20.934359 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Thu Nov 10 18:35:49.459290 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 10 18:35:49.460527 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 10 18:46:54.297200 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 10 18:46:54.311317 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 10 19:10:14.869156 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Thu Nov 10 19:17:16.692849 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 10 19:17:16.694170 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 10 22:28:28.591848 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 10 22:28:28.593121 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Nov 11 20:50:48.444691 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Fri Nov 11 20:50:48.447041 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Nov 11 20:59:30.328936 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Fri Nov 11 20:59:30.330094 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 12 09:04:17.863949 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Nov 12 09:04:27.914441 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sat Nov 12 09:04:27.915536 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 12 09:07:22.693570 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Nov 12 09:07:29.153143 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sat Nov 12 09:07:29.154027 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Nov 12 09:22:06.190286 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sat Nov 12 09:22:06.192245 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Nov 13 04:22:19.757754 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sun Nov 13 04:22:19.759035 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 15 11:57:53.495887 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Tue Nov 15 11:57:53.497588 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 15 11:57:58.894062 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 15 11:58:01.186973 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Tue Nov 15 11:58:01.188100 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 04:19:15.145921 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 04:19:15.148484 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 07:55:35.764310 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 07:55:35.765848 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 08:08:23.647490 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 08:08:23.648394 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 08:14:30.232363 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 16 08:14:45.306334 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 08:14:45.309622 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 09:20:27.978756 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 16 09:23:27.570226 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 09:23:27.572781 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 09:38:24.608024 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 16 09:38:34.587711 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 09:38:34.589272 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 16 09:40:38.703899 2022] [php7:warn] [pid 20] [client 172.30.0.1:57112] PHP Warning:  require_once(system/dotenv/autoloader.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:38.706809 2022] [php7:error] [pid 20] [client 172.30.0.1:57112] PHP Fatal error:  require_once(): Failed opening required 'system/dotenv/autoloader.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:52.551654 2022] [php7:warn] [pid 21] [client 172.30.0.1:57114] PHP Warning:  require_once(system/dotenv/autoloader.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:52.552888 2022] [php7:error] [pid 21] [client 172.30.0.1:57114] PHP Fatal error:  require_once(): Failed opening required 'system/dotenv/autoloader.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:55.000962 2022] [php7:warn] [pid 21] [client 172.30.0.1:57114] PHP Warning:  require_once(system/dotenv/autoloader.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:55.001545 2022] [php7:error] [pid 21] [client 172.30.0.1:57114] PHP Fatal error:  require_once(): Failed opening required 'system/dotenv/autoloader.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:55.694624 2022] [php7:warn] [pid 21] [client 172.30.0.1:57114] PHP Warning:  require_once(system/dotenv/autoloader.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:55.696084 2022] [php7:error] [pid 21] [client 172.30.0.1:57114] PHP Fatal error:  require_once(): Failed opening required 'system/dotenv/autoloader.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:56.165509 2022] [php7:warn] [pid 21] [client 172.30.0.1:57114] PHP Warning:  require_once(system/dotenv/autoloader.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 316
+[Wed Nov 16 09:40:56.167464 2022] [php7:error] [pid 21] [client 172.30.0.1:57114] PHP Fatal error:  require_once(): Failed opening required 'system/dotenv/autoloader.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 316
+[Wed Nov 16 09:42:42.497235 2022] [php7:error] [pid 17] [client 172.30.0.1:57118] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:42:43.780637 2022] [php7:error] [pid 17] [client 172.30.0.1:57118] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:25.205606 2022] [php7:error] [pid 18] [client 172.30.0.1:57120] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:25.973477 2022] [php7:error] [pid 18] [client 172.30.0.1:57120] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:26.598023 2022] [php7:error] [pid 18] [client 172.30.0.1:57120] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:27.077610 2022] [php7:error] [pid 18] [client 172.30.0.1:57120] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:33.984601 2022] [php7:error] [pid 19] [client 172.30.0.1:57122] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:34.418118 2022] [php7:error] [pid 19] [client 172.30.0.1:57122] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:34.852073 2022] [php7:error] [pid 19] [client 172.30.0.1:57122] PHP Fatal error:  Uncaught Error: Class 'Dotenv\\Dotenv' not found in /var/www/html/index.php:316\nStack trace:\n#0 {main}\n  thrown in /var/www/html/index.php on line 316
+[Wed Nov 16 09:43:42.026514 2022] [php7:warn] [pid 20] [client 172.30.0.1:57124] PHP Warning:  require_once(system/dotenv/autoloader.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 315
+[Wed Nov 16 09:43:42.028186 2022] [php7:error] [pid 20] [client 172.30.0.1:57124] PHP Fatal error:  require_once(): Failed opening required 'system/dotenv/autoloader.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 315
+[Wed Nov 16 09:49:14.076466 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Nov 16 09:54:06.576179 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Nov 16 09:54:06.577529 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 17 07:59:49.603304 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 17 07:59:49.607198 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 17 19:07:45.921347 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Thu Nov 17 19:07:45.923134 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
